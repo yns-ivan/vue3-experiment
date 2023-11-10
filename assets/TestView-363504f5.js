@@ -1,1 +1,0 @@
-import{r as c,b as t,o as l,c as _,a as s,t as n}from"./index-f70adc73.js";const r={class:"test"},v={__name:"TestView",setup(i){c({count:0});const o=t("Hello World!"),e=t(0);function a(){e.value++}return(u,m)=>(l(),_("div",r,[s("h1",null,n(o.value),1),s("button",{onClick:a},"count is: "+n(e.value)+". Click me!",1)]))}};export{v as default};
